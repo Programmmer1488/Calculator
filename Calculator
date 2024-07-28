@@ -39,3 +39,4 @@ while True:
 while True:
     choice = input("Enter choice (1/2/3/4): ")
 print("1. Add")
+print("4. Divide") 
