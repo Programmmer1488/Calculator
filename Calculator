@@ -42,3 +42,5 @@ print("1. Add")
 print("4. Divide") 
 elif choice == '2':
             print("Result:", subtract(num1, num2))
+elif choice == '2':
+            print("Result:", subtract(num1, num2))
