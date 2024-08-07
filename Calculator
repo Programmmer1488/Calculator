@@ -52,7 +52,7 @@ print("Result:", divide(num1, num2))
 print("Select operation:")
 print("1. Add")
 print("1. Add")
-
+print("1. Add")
 
 
 
