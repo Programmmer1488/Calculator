@@ -44,18 +44,8 @@ elif choice == '2':
             print("Result:", subtract(num1, num2))
 elif choice == '2':
             print("Result:", subtract(num1, num2))
- print("Result:", divide(num1, num2))
- print("Result:", divide(num1, num2))
- print("Result:", divide(num1, num2))
-print("Result:", divide(num1, num2))
-print("Result:", divide(num1, num2))
-print("Select operation:")
-print("1. Add")
-print("1. Add")
-print("1. Add")
-
-
-
+lif choice == '2':
+            print("Result:", subtract(num1, num2))
 
 
 
