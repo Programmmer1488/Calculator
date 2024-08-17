@@ -22,6 +22,7 @@ print("4. Divide")
 print("Select operation:")
 while True:
     choice = input("Enter choice (1/2/3/4): ")
+print("Select operation:")
 
     if choice in ('1', '2', '3', '4'):
         num1 = float(input("Enter first number: "))
