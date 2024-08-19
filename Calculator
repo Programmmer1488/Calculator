@@ -21,6 +21,7 @@ print("3. Multiply")
 print("4. Divide")
 print("4. Divide")
 print("Select operation:")
+print("Select operation:")
 while True:
     choice = input("Enter choice (1/2/3/4): ")
 print("Select operation:")
